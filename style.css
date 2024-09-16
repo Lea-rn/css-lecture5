@@ -1,0 +1,98 @@
+.over {
+    margin-top: 50px;
+    border: solid;
+   border-radius: 20px;
+    width: 50%;
+    height: 100px;
+overflow:  scroll;
+ 
+}
+.title {
+    color: red;
+    letter-spacing: 8px;
+    
+}
+
+pre {
+    line-height: 30px;
+}
+
+/* text shadow : h-shadow ; v-shadow ; blur ; color   */
+
+/* h1 {
+    font-size: 100px;
+    text-shadow: 1px 1px 1px red;
+} */
+
+.abc{
+    border: solid 5px rgb(16, 15, 15);
+    width: 50%;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.abc h1 , p , button   {
+    border: inherit
+}
+
+/* .abc h1 {
+    color: red;
+} */
+
+.karim {
+    color: green;
+}
+
+.kk {
+    color: brown;
+}
+
+.tt {
+    text-transform:capitalize ;
+border: solid 1px;
+height: 200px;
+width: 30%;
+margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+transition: 0.7s ease;
+letter-spacing: 10px;
+}
+.tt:hover {
+    transform: scale(1.1,1.1);
+    background-color: aqua;
+}
+
+a {
+    margin-top: 30px;
+    font-size: 50px;
+    text-decoration: none;
+    border: solid 2px;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: aqua;
+    color: rgb(30, 20, 20);
+    transition: 0.7s ease;
+}
+
+a:hover {
+    background-color: rgb(7, 113, 113);
+    color: white;
+    transform: scale(2.5,2.5);
+}
+
+.font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif; 
+}
+
+.fontt{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+}
+.salma {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
